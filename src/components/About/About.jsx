@@ -6,13 +6,13 @@ function About() {
       <h2 className={styles.title}>About</h2>
       <div classname={styles.content}>
         <img
-          src="/assets/nav/about.png"
+          src="/about.png"
           alt="About Pic"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src="/assets/nav/cursor.png" alt="cursor icon" />
+            <img src="/cursor.png" alt="cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>FrontEnd Developer</h3>
               <p>
@@ -22,7 +22,7 @@ function About() {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="/assets/nav/serverIcon.png" alt="server icon" />
+            <img src="/serverIcon.png" alt="server icon" />
             <div className={styles.aboutItemText}>
               <h3>BackEnd Developer</h3>
               <p>
@@ -32,7 +32,7 @@ function About() {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="/assets/nav/cursor.png" alt="cursor icon" />
+            <img src="/cursor.png" alt="cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>UI designer</h3>
               <p>

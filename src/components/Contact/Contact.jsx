@@ -9,25 +9,25 @@ function Contact() {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <img src="../../assets/nav/email.png" alt="email icon" />
+          <img src="email.png" alt="email icon" />
           <a href="mailto:indiankamleshbairwa@gmail.com">kamlesh@gmail.com</a>
         </li>
         <li className={styles.link}>
-          <img src="../../assets/nav/linkedin.png" alt="LinkedIn icon" />
+          <img src="linkedin.png" alt="LinkedIn icon" />
           <a href="https://www.linkedin.com/in/kamlesh-bairwa-2398a3191">
             LinkedIn.com/kamlesh
           </a>
         </li>
         <li className={styles.link}>
-          <img src="../../assets/nav/github.png" alt="github icon" />
+          <img src="github.png" alt="github icon" />
           <a href="https://github.com/K-KAMLESH/">GithubHub.com/kamlesh</a>
         </li>{" "}
         <li className={styles.link}>
-          <img src="../../assets/nav/whatsapp.png" alt="whatsapp icon" />
+          <img src="whatsapp.png" alt="whatsapp icon" />
           <a href="https://wa.me/7877449689">Chat on whatsapp</a>
         </li>{" "}
         <li className={styles.link}>
-          <img src="../../assets/nav/instagram.png" alt="instagram icon" />
+          <img src="instagram.png" alt="instagram icon" />
           <a href="https://instagram.com">instagram.com/kamlesh.exe</a>
         </li>
       </ul>

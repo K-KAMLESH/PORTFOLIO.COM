@@ -18,7 +18,7 @@ function Hero() {
       </div>
       <img
         className={styles.heroImage}
-        src="/assets/nav/heroImage.png"
+        src="heroImage.png"
         alt="heroImage of me"
       />
       <div className={styles.topBlur} />

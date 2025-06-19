@@ -14,8 +14,8 @@ function Navbar() {
           className={styles.menuBtn}
           src={
             menuOpen
-              ? "/assets/nav/close_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg"
-              : "/assets/nav/menu_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg"
+              ? "/close_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg"
+              : "/menu_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg"
           }
           onClick={() => {
             setMenuOpen(!menuOpen);
