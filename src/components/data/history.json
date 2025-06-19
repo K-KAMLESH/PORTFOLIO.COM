@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Software Engineer",
+    "organization": "Google",
+    "start_date": "2016-05-01",
+    "end_date": "2018-04-30",
+    "experiences": ["Developed and maintained backend systems using Java and Spring Boot."],
+    "imgsrc": "../../assets/nav/google.png"
+  },
+  {
+    "role": "Backend Developer",
+    "organization": "Meta",
+    "start_date": "2018-06-01",
+    "end_date": "2020-05-31",
+    "experiences": ["Designed RESTful APIs and improved system performance by 30%."],
+    "imgsrc": "../../assets/nav/meta.png"
+  },
+  {
+    "role": "Senior Developer",
+    "organization": "Microsoft",
+    "start_date": "2020-06-01",
+    "end_date": "2022-08-31",
+    "experiences": ["Led a team of 5 developers on large-scale enterprise applications."],
+    "imgsrc": "../../assets/nav/microsoft.png"
+  },
+ 
+  {
+    "role": "Engineering Manager",
+    "organization": "Netflix",
+    "start_date": "2024-04-01",
+    "end_date": "2025-04-01",
+    "experiences": ["Managed cross-functional teams and scaled infrastructure for global deployment."],
+    "imgsrc": "../../assets/nav/netflix.png"
+  }
+]

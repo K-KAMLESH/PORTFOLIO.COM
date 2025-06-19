@@ -1,0 +1,20 @@
+[
+  {
+    "name": "JavaScript",
+    "imgsrc": "../../assets/nav/java-script.png"
+  },
+
+  {
+    "name": "HTML",
+    "imgsrc": "../../assets/nav/html.png"
+  },
+  {
+    "name": "CSS",
+    "imgsrc": "../../assets/nav/css-3.png"
+  },
+
+  {
+    "name": "React",
+    "imgsrc": "../../assets/nav/react.png"
+  }
+]
