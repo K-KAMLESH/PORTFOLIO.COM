@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./App.module.css";
-import Navbar from "./components/Navbar/navbar";
+import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/hero/Hero";
 import About from "./components/About/About";
 import Experience from "./components/Experience/Experience";
